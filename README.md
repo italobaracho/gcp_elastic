@@ -22,7 +22,7 @@ Este repositório documenta a instalação e configuração do Elastic Agent no 
 ## **Pré-requisitos**
 Antes de começar, certifique-se de ter:
 - Conta no [Google Cloud Platform](https://cloud.google.com/).
-- Acesso ao [Elastic Cloud](https://cloud.elastic.co/).
+- Acesso ao [Elastic Cloud](https://www.elastic.co/pt/cloud/cloud-trial-overview/30-days?ultron=community-tdcairecife-2024&hulk=30d).
 - Permissões para gerenciar VMs e APIs no GCP.
 
 ---
